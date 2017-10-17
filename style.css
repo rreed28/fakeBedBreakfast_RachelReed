@@ -1,13 +1,23 @@
 * {
 	font-family: Arial;
 	box-sizing: border-box;
+	color: #61574b;
+}
+body {
+
 }
 h1 {
-	text-align: center; 
+	color: #34252f;
+	text-align: center;
 }
-
+img, h1 {
+	
+	display: block;
+	padding: 10px 15px;
+}
+  	  
 h2 {
-
+	color: #34252f;
 }
 
 ul {
@@ -19,5 +29,5 @@ a {
 }
 
 a:hover {
-	color: red;
+	color: #8e5572;
 }
